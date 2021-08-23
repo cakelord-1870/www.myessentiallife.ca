@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.myessentiallife.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.myessentiallife.ca/collections/glass-bottles-1.atom"/>
+  <title>My Essential Life</title>
+  <updated>2018-02-27T21:23:44-06:00</updated>
+  <author>
+    <name>My Essential Life</name>
+  </author>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/203298570265</id>
+    <published>2018-02-27T21:23:44-06:00</published>
+    <updated>2018-02-27T21:23:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/nasal-inhaler"/>
+    <title>Essential Oil Nasal Inhaler</title>
+    <s:type>Glass Bottle</s:type>
+    <s:vendor>MyEssentialLife</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/IMG_1057.jpg?v=1519587864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MyEssentialLife<br>
+        <strong>Type: </strong>Glass Bottle<br>
+        <strong>Price: </strong>
+            7.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nasal Inhaler includes four pieces - base, wick, inhaler and cover. Sold in multi-colour sets of 6. These nasal inhalers are perfect for on the go.</p>
+<p>Simply saturate the wick with your favorite essential oil blend, (anywhere from 5-15 drops) place the wick into the inhaler and push the bottom cap onto the inhaler until it is firmly in place. When not in use screw the cover on to preserve.</p>
+<p>To use unscrew, remove cover and wave the inhaler underneath your nose and gently inhale.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>nasal inhaler</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/203298570265</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.20</s:price>
+      <s:sku>NI001</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/179111395353</id>
+    <published>2018-01-22T06:54:36-06:00</published>
+    <updated>2018-01-22T06:54:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/sample-bottles"/>
+    <title>2ml Amber Glass Sample Bottles - 12 pack</title>
+    <s:type>Glass Bottle</s:type>
+    <s:vendor>MyEssentialLife</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/Canadian-essential-oil-supplies-58.jpg?v=1516624481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MyEssentialLife<br>
+        <strong>Type: </strong>Glass Bottle<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These 2ml amber glass bottles are the perfect size to use when sharing your love of essential oils with others. They come in a package of 12 with bottle, orifice reducer and black lid. With the reducer in you will need to tap on the bottom of the bottle to get the oil to come out. Three taps equals one drop of oil, happy sampling!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>essential oil supplies</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/179111395353</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SB001</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8365192646</id>
+    <published>2016-09-01T21:18:00-05:00</published>
+    <updated>2016-09-01T21:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/5ml"/>
+    <title>5ml Clear Glass Roller Bottles (pkg of 6)</title>
+    <s:type>Glass Bottle</s:type>
+    <s:vendor>My Essential Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/Canadian-essential-oil-supplies-39.jpg?v=1513728918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Essential Life<br>
+        <strong>Type: </strong>Glass Bottle<br>
+        <strong>Price: </strong>
+            5.95 - 195.00
+            <a href="https://www.myessentiallife.ca/products/5ml">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Essential Oil Supplies - Roller Bottles - Each bottle includes a white top with a glass roller ball and a black lid. These bottles are perfect for mixing your own blends of your favorite essential oils or diluting pure oils with a carrier oil.  Simply mix up your oils, snap on the top securely, screw on the lid and carry them with you in a safe and convenient way.  Sold in packages of 6, 36, 96, and 267</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>chakra</s:tag>
+    <s:tag>chakra lava stone bracelet</s:tag>
+    <s:tag>diffuser locket</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lava stone bracelet</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>wrap bracelet</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8365192646</id>
+      <title>6</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>RB002</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8365192646</id>
+      <title>36</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku>RB002</s:sku>
+      <s:grams>1110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8365192646</id>
+      <title>96</title>
+      <s:price currency="CAD">76.80</s:price>
+      <s:sku>RB002</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8365192646</id>
+      <title>267</title>
+      <s:price currency="CAD">195.00</s:price>
+      <s:sku>RB002</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8092729862</id>
+    <published>2016-08-16T14:18:00-05:00</published>
+    <updated>2016-08-16T14:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/15-ml-1-2-ounce-glass-spray-bottle"/>
+    <title>15 ml Glass Bottle with Lotion Pump Top (pkg of 6)</title>
+    <s:type>Glass Bottle</s:type>
+    <s:vendor>MyEssentialLife</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/Canadian-essential-oil-supplies-32.jpg?v=1513728249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MyEssentialLife<br>
+        <strong>Type: </strong>Glass Bottle<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Essential Oil Supplies - </span>Cobalt blue 15 ml glass bottles with a white lotion pump lid are perfect for mixing up your favorite recipes of essential oils.  Sold in quantities of 6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>chakra</s:tag>
+    <s:tag>chakra lava stone bracelet</s:tag>
+    <s:tag>diffuser locket</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lava stone bracelet</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>wrap bracelet</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8092729862</id>
+      <title>6</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>BSB001</s:sku>
+      <s:grams>238</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/5968494854</id>
+    <published>2016-04-17T08:15:00-05:00</published>
+    <updated>2016-04-17T08:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/10-ml-blue-frosted-rollerbottle"/>
+    <title>10 ml Blue Frosted Roller Bottle (pkg of 6)</title>
+    <s:type>Roller Bottle</s:type>
+    <s:vendor>MyEssentialLife</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/Canadian-essential-oil-supplies-17.jpg?v=1513728765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MyEssentialLife<br>
+        <strong>Type: </strong>Roller Bottle<br>
+        <strong>Price: </strong>
+            6.75 - 144.00
+            <a href="https://www.myessentiallife.ca/products/10-ml-blue-frosted-rollerbottle">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Essential Oil Supplies - Roller Bottles - </span>10 ml cobalt blue frosted glass roller bottle. Each bottle includes a white top with a glass roller ball and a black lid. These bottles are perfect for mixing your own blends of your favorite essential oils or diluting pure oils with a carrier oil.  Simply mix up your oils, snap on the top securely, screw on the lid and carry them with you in a safe and convenient way.  Sold in packages of 6, 36, 96, and 150</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/5968494854</id>
+      <title>6</title>
+      <s:price currency="CAD">6.75</s:price>
+      <s:sku>RB001</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/5968494854</id>
+      <title>36</title>
+      <s:price currency="CAD">37.44</s:price>
+      <s:sku>RB001</s:sku>
+      <s:grams>1110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/5968494854</id>
+      <title>96</title>
+      <s:price currency="CAD">96.00</s:price>
+      <s:sku>RB001</s:sku>
+      <s:grams>2960</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/5968494854</id>
+      <title>150</title>
+      <s:price currency="CAD">144.00</s:price>
+      <s:sku>RB001</s:sku>
+      <s:grams>4625</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.myessentiallife.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.myessentiallife.ca/collections/carrying-cases.atom"/>
+  <title>My Essential Life</title>
+  <updated>2016-09-01T16:39:00-05:00</updated>
+  <author>
+    <name>My Essential Life</name>
+  </author>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8359945030</id>
+    <published>2016-09-01T16:39:00-05:00</published>
+    <updated>2016-09-01T16:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/carrying-case-pink-16-vial"/>
+    <title>Medium Durable Hot Pink Essential Oil Carrying Case</title>
+    <s:type>Carrying Case</s:type>
+    <s:vendor>MyEssentialLife</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/Canadian-essential-oil-supplies-161.jpg?v=1513780152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MyEssentialLife<br>
+        <strong>Type: </strong>Carrying Case<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Essential Oil Supplies - Carrying Case - These 16 vial essential oil carrying cases are perfect for traveling when you just need to take the necessities along.  Made from durable canvas with a black velvet lining. The case features a zipper closure, handle, and 16 individual padded spots to hold your precious oils safely and securely. This case is pink with grey piping</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>chakra</s:tag>
+    <s:tag>chakra lava stone bracelet</s:tag>
+    <s:tag>diffuser locket</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lava stone bracelet</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>wrap bracelet</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8359945030</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>CC019</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8241913094</id>
+    <published>2016-08-25T23:03:00-05:00</published>
+    <updated>2016-08-25T23:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/carrying-case-black-40-vial"/>
+    <title>Executive Size Essential Oil Carrying Case</title>
+    <s:type>Carrying Case</s:type>
+    <s:vendor>My Essential Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/Canadian-essential-oil-supplies-226.jpg?v=1513892154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Essential Life<br>
+        <strong>Type: </strong>Carrying Case<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Essential Oil Supplies - Carrying Case - This black sophisticated polyurethane essential oil carrying case is a must have for any essential oil business person and essential oil enthusiast.  It features a 40 vial foam insert, a sturdy zipper and handle to transport your oils safely and securely.  Carry your oils in this classy and professional case and you'll be noticed in any room.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>chakra</s:tag>
+    <s:tag>chakra lava stone bracelet</s:tag>
+    <s:tag>diffuser locket</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lava stone bracelet</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>wrap bracelet</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8241913094</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>CC020</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8241796550</id>
+    <published>2016-08-25T22:45:00-05:00</published>
+    <updated>2016-08-25T22:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/carrying-case-petal-30-vial"/>
+    <title>Large Durable Electric Pastel Essential Oil Carrying Case</title>
+    <s:type>Carrying Case</s:type>
+    <s:vendor>MyEssentialLife</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/Canadian-essential-oil-supplies-282.jpg?v=1513892334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MyEssentialLife<br>
+        <strong>Type: </strong>Carrying Case<br>
+        <strong>Price: </strong>
+            32.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Essential Oil Supplies - Carrying Case - These 30 vial essential oil carrying cases are perfect for traveling or storing your oils at home.  Made from durable canvas with a black velvet lining. The case features a zipper closure, handle, and 30 individual padded spots to hold your precious oils safely and securely. This case comes in a beautiful pastel grey, blue, green and pink petal print.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>chakra</s:tag>
+    <s:tag>chakra lava stone bracelet</s:tag>
+    <s:tag>diffuser locket</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lava stone bracelet</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>wrap bracelet</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8241796550</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>CC010</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8241603846</id>
+    <published>2016-08-25T22:35:00-05:00</published>
+    <updated>2016-08-25T22:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/carrying-case-black-30-vial"/>
+    <title>Large Durable Solid Black Essential Oil Carrying Case</title>
+    <s:type>Carrying Case</s:type>
+    <s:vendor>My Essential Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/Canadian-essential-oil-supplies-259.jpg?v=1513892509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Essential Life<br>
+        <strong>Type: </strong>Carrying Case<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Essential Oil Supplies - Carrying Case - These 30 vial essential oil carrying cases are perfect for traveling or storing your oils at home.  Made from durable canvas with a black velvet lining. The case features a zipper closure, handle, and 30 individual padded spots to hold your precious oils safely and securely. This case comes in basic black.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>chakra</s:tag>
+    <s:tag>chakra lava stone bracelet</s:tag>
+    <s:tag>diffuser locket</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lava stone bracelet</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>wrap bracelet</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8241603846</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>CC005</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8241508806</id>
+    <published>2016-08-25T22:24:00-05:00</published>
+    <updated>2016-08-25T22:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/carrying-case-paris-30-vial"/>
+    <title>Large Durable French Amor Print Essential Oil Carrying Case</title>
+    <s:type>Carrying Case</s:type>
+    <s:vendor>My Essential Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/Canadian-essential-oil-supplies-271.jpg?v=1513892303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Essential Life<br>
+        <strong>Type: </strong>Carrying Case<br>
+        <strong>Price: </strong>
+            32.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Essential Oil Supplies - Carrying Case - These 30 vial essential oil carrying cases are perfect for traveling or storing your oils at home.  Made from durable canvas with a black velvet lining. The case features a zipper closure, handle, and 30 individual padded spots to hold your precious oils safely and securely. This case comes in a unique Paris motif featuring prints of the Eiffel tower and arc de triomphe.  </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>chakra</s:tag>
+    <s:tag>chakra lava stone bracelet</s:tag>
+    <s:tag>diffuser locket</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lava stone bracelet</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>wrap bracelet</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8241508806</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>CC009</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8241423750</id>
+    <published>2016-08-25T22:14:00-05:00</published>
+    <updated>2016-08-25T22:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/carrying-case-floral-blue-30-vial"/>
+    <title>Large Durable Navy Blue Lily Print Essential Oil Carrying Case</title>
+    <s:type>Carrying Case</s:type>
+    <s:vendor>My Essential Life</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/Canadian-essential-oil-supplies-255.jpg?v=1513892429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Essential Life<br>
+        <strong>Type: </strong>Carrying Case<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Essential Oil Supplies - Carrying Case - These 30 vial essential oil carrying cases are perfect for traveling or storing your oils at home.  Made from durable canvas with a black velvet lining. The case features a zipper closure, handle, and 30 individual padded spots to hold your precious oils safely and securely. This case comes in navy Hawaiian print with black piping.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>chakra</s:tag>
+    <s:tag>chakra lava stone bracelet</s:tag>
+    <s:tag>diffuser locket</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lava stone bracelet</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>wrap bracelet</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8241423750</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>CC008</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8168956486</id>
+    <published>2016-08-21T09:25:00-05:00</published>
+    <updated>2016-08-21T09:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/carrying-case-30-vial"/>
+    <title>Large Durable Aztec Print Essential Oil Carrying Case</title>
+    <s:type>Carrying Case</s:type>
+    <s:vendor>MyEssentialLife</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/Canadian-essential-oil-supplies-279.jpg?v=1513780836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MyEssentialLife<br>
+        <strong>Type: </strong>Carrying Case<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Essential Oil Supplies - Carrying Case - These 30 vial essential oil carrying cases are perfect for traveling or storing your oils at home.  Made from durable canvas with a black velvet lining.  The case features a zipper closure, handle, and 30 individual padded spots to hold your precious oils safely and securely. This case comes in an exciting grey, red, white and blue zig zag print.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>chakra</s:tag>
+    <s:tag>chakra lava stone bracelet</s:tag>
+    <s:tag>diffuser locket</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lava stone bracelet</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>wrap bracelet</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8168956486</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>CC011</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8168909318</id>
+    <published>2016-08-21T09:15:00-05:00</published>
+    <updated>2016-08-21T09:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/carrying-case-elephant-print-gray-30-vial"/>
+    <title>Large Durable Grey Boho Print Essential Oil Carrying Case</title>
+    <s:type>Carrying Case</s:type>
+    <s:vendor>MyEssentialLife</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/Canadian-essential-oil-supplies-268.jpg?v=1513892404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MyEssentialLife<br>
+        <strong>Type: </strong>Carrying Case<br>
+        <strong>Price: </strong>
+            32.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Essential Oil Supplies - Carrying Case - These 30 vial essential oil carrying cases are perfect for traveling or storing your oils at home.  Made from durable canvas with a black velvet lining. The case features a zipper closure, handle, and 30 individual padded spots to hold your precious oils safely and securely. This case comes in grey elephant print with grey piping.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>chakra</s:tag>
+    <s:tag>chakra lava stone bracelet</s:tag>
+    <s:tag>diffuser locket</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lava stone bracelet</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>wrap bracelet</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8168909318</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>CC007</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8168849222</id>
+    <published>2016-08-21T09:03:00-05:00</published>
+    <updated>2016-08-21T09:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/10-vial-cosmetic-bag"/>
+    <title>10 Vial Cosmetic Size Carrying Case</title>
+    <s:type>Carrying Case</s:type>
+    <s:vendor>MyEssentialLife</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/Canadian-essential-oil-supplies-155_cf7d79bd-9428-40cf-9bcb-e01933e8deef.jpg?v=1513702660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MyEssentialLife<br>
+        <strong>Type: </strong>Carrying Case<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Essential Oil Supplies - Carrying Case - </span>Fun and functional with a pink and white zig zag print, this bag will hold 10 bottles of essential oils.  Perfect to carry when you travel so you have your necessities with you all the time!  Made from a polyester material.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>chakra</s:tag>
+    <s:tag>chakra lava stone bracelet</s:tag>
+    <s:tag>diffuser locket</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lava stone bracelet</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>wrap bracelet</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8168849222</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>CC003</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8168789766</id>
+    <published>2016-08-21T08:57:00-05:00</published>
+    <updated>2016-08-21T08:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/carrying-case-red-print-16-vial"/>
+    <title>Medium Durable Red Damask Print Essential Oil Carrying Case</title>
+    <s:type>Carrying Case</s:type>
+    <s:vendor>MyEssentialLife</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/CANADI_4_1288e435-407b-46cb-b6c4-242132510b80.JPG?v=1513779013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MyEssentialLife<br>
+        <strong>Type: </strong>Carrying Case<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Essential Oil Supplies - Carrying Case - These 16 vial essential oil carrying cases are perfect for traveling when you just need to take the necessities along.  Made from durable canvas with a black velvet lining. The case features a zipper closure, handle, and 16 individual padded spots to hold your precious oils safely and securely. This case has a beautiful red print and grey piping</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>chakra</s:tag>
+    <s:tag>chakra lava stone bracelet</s:tag>
+    <s:tag>diffuser locket</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lava stone bracelet</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>wrap bracelet</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8168789766</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>CC017</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8168751750</id>
+    <published>2016-08-21T08:51:00-05:00</published>
+    <updated>2016-08-21T08:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/carrying-case-black-16-vial"/>
+    <title>Medium Durable Solid Black Essential Oil Carrying Case</title>
+    <s:type>Carrying Case</s:type>
+    <s:vendor>MyEssentialLife</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/Canadian-essential-oil-supplies-176.jpg?v=1513779845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MyEssentialLife<br>
+        <strong>Type: </strong>Carrying Case<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Essential Oil Supplies - Carrying Case - These 16 vial essential oil carrying cases are perfect for traveling when you just need to take the necessities along.  Made from durable canvas with a black velvet lining. The case features a zipper closure, handle, and 16 individual padded spots to hold your precious oils safely and securely.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>chakra</s:tag>
+    <s:tag>chakra lava stone bracelet</s:tag>
+    <s:tag>diffuser locket</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lava stone bracelet</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>wrap bracelet</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8168751750</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>CC012</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8168718214</id>
+    <published>2016-08-21T08:41:00-05:00</published>
+    <updated>2016-08-21T08:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/carrying-case-green-16-vial"/>
+    <title>Medium Durable Green Essential Oil Carrying Case</title>
+    <s:type>Carrying Case</s:type>
+    <s:vendor>MyEssentialLife</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/Canadian-essential-oil-supplies-168.jpg?v=1513742763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MyEssentialLife<br>
+        <strong>Type: </strong>Carrying Case<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Essential Oil Supplies - Carrying Case - These 16 vial essential oil carrying cases are perfect for traveling when you just need to take the necessities along.  Made from durable canvas with a black velvet lining. The case features a zipper closure, handle, and 16 individual padded spots to hold your precious oils safely and securely. This case is moss green with grey piping</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>chakra</s:tag>
+    <s:tag>chakra lava stone bracelet</s:tag>
+    <s:tag>diffuser locket</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lava stone bracelet</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>wrap bracelet</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8168718214</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>CC015</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8168697990</id>
+    <published>2016-08-21T08:33:00-05:00</published>
+    <updated>2016-08-21T08:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/carrying-case-navy-print-16-vial"/>
+    <title>Medium Durable Navy Geometric Print Essential Oil Carrying Case</title>
+    <s:type>Carrying Case</s:type>
+    <s:vendor>MyEssentialLife</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/CA7E75_1.JPG?v=1513779262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MyEssentialLife<br>
+        <strong>Type: </strong>Carrying Case<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Essential Oil Supplies - Carrying Case - These 16 vial essential oil carrying cases are perfect for traveling when you just need to take the necessities along.  Made from durable canvas with a black velvet lining. The case features a zipper closure, handle, and 16 individual padded spots to hold your precious oils safely and securely. This case has a white  background, navy piping and navy Aztec print.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>chakra</s:tag>
+    <s:tag>chakra lava stone bracelet</s:tag>
+    <s:tag>diffuser locket</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lava stone bracelet</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>wrap bracelet</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8168697990</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>CC016</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8168667974</id>
+    <published>2016-08-21T08:23:00-05:00</published>
+    <updated>2016-08-21T08:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/carrying-case-floral-green-16-vial"/>
+    <title>Medium Durable Lime Green Hibiscus Print Essential Oil Carrying Case</title>
+    <s:type>Carrying Case</s:type>
+    <s:vendor>MyEssentialLife</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/CANADI_3.JPG?v=1513741831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MyEssentialLife<br>
+        <strong>Type: </strong>Carrying Case<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Essential Oil Supplies - Carrying Case - These 16 vial essential oil carrying cases are perfect for traveling when you just need to take the necessities along.  Made from durable canvas with a black velvet lining. The case features a zipper closure, handle, and 16 individual padded spots to hold your precious oils safely and securely. Made from a beautiful green floral print, this case is fun and functional!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>chakra</s:tag>
+    <s:tag>chakra lava stone bracelet</s:tag>
+    <s:tag>diffuser locket</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lava stone bracelet</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>wrap bracelet</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8168667974</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>CC014</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8161294662</id>
+    <published>2016-08-20T23:06:00-05:00</published>
+    <updated>2016-08-20T23:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/carrying-case-victorian-16-vial"/>
+    <title>Medium Durable Floral Clock Print Essential Oil Carrying Case</title>
+    <s:type>Carrying Case</s:type>
+    <s:vendor>MyEssentialLife</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/CANADI_3_c97b2987-1b31-4586-b5b7-bd51e0e203f7.JPG?v=1513778604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MyEssentialLife<br>
+        <strong>Type: </strong>Carrying Case<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Essential Oil Supplies - Carrying Case - These 16 vial essential oil carrying cases are perfect for traveling. Made from durable canvas with a black velvet lining. The case features a zipper closure, handle, and 16 individual padded spots to hold your precious oils safely and securely. This case has a beautiful Victorian print with pastel purple background and grey piping.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>chakra</s:tag>
+    <s:tag>chakra lava stone bracelet</s:tag>
+    <s:tag>diffuser locket</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lava stone bracelet</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>wrap bracelet</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8161294662</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>CC018</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8161195910</id>
+    <published>2016-08-20T22:55:00-05:00</published>
+    <updated>2016-08-20T22:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/carrying-case-daisy-16-vial"/>
+    <title>Medium Durable Daisy Print Essential Oil Carrying Case</title>
+    <s:type>Carrying Case</s:type>
+    <s:vendor>MyEssentialLife</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/Canadian-essential-oil-supplies-200.jpg?v=1513741195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MyEssentialLife<br>
+        <strong>Type: </strong>Carrying Case<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Essential Oil Supplies - Carrying Case - These 16 vial essential oil carrying cases are perfect for traveling when you just need to take the necessities along.  Made from durable canvas with a black velvet lining. The case features a zipper closure, handle, and 16 individual padded spots to hold your precious oils safely and securely. This case is my favorite with a fun daisy print black background.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>chakra</s:tag>
+    <s:tag>chakra lava stone bracelet</s:tag>
+    <s:tag>diffuser locket</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>glass spray bottle</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lava stone bracelet</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>roller bottle</s:tag>
+    <s:tag>wrap bracelet</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8161195910</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>CC013</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.myessentiallife.ca/products/8075880198</id>
+    <published>2016-08-15T09:46:00-05:00</published>
+    <updated>2016-08-15T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.myessentiallife.ca/products/16-vial-carrying-case"/>
+    <title>Medium Fleece Essential Oil Carrying Case</title>
+    <s:type>Carrying Case</s:type>
+    <s:vendor>MyEssentialLife</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1253/1153/products/fleece-16-vial-essential-oil-carrying-case.jpg?v=1513703420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MyEssentialLife<br>
+        <strong>Type: </strong>Carrying Case<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Essential Oil Supplies - Carrying Case - </span>These 16 vial essential oil carrying cases are perfect for traveling. Made from soft fleece material, the case features a double zipper, handle, and 16 individual padded spots to hold your precious oils safely and securely. Choose pink or purple.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16 vial carrying case</s:tag>
+    <s:tag>30 vial carrying case</s:tag>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>canadian essential oil accessories</s:tag>
+    <s:tag>Carrying case</s:tag>
+    <s:tag>diffusser</s:tag>
+    <s:tag>doterra</s:tag>
+    <s:tag>essential oil</s:tag>
+    <s:tag>essential oil accessories</s:tag>
+    <s:tag>essential oil carrying case</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>locket</s:tag>
+    <s:tag>young living</s:tag>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8075880198</id>
+      <title>Pink</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>CC002</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.myessentiallife.ca/products/8075880198</id>
+      <title>Purple</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>CC001</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+</feed>
